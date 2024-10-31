@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "4248877136",
+    "project_id": "latihan-22312085",
+    "storage_bucket": "latihan-22312085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4248877136:android:3ac2fdfdf756e24172f955",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxH9lRV-SoPLWYRN_zk6fJ5bZiN2bjpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4248877136:android:00110cd438c8720d72f955",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxH9lRV-SoPLWYRN_zk6fJ5bZiN2bjpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4248877136:android:b04505a380b36be972f955",
+        "android_client_info": {
+          "package_name": "com.wadiyan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxH9lRV-SoPLWYRN_zk6fJ5bZiN2bjpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
